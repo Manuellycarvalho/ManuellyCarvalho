@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuellycarvalho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Snake animation](https://github.com/Manuellycarvalho/ManuellyCarvalho/blob/main/Snack)
+![Snake animation](https://github.com/Manuellycarvalho/Manuellycarvalho/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Manuellycarvalho&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -18,8 +18,6 @@
 <a href="https://www.instagram.com/oiimaanuu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
 
-https://github.com/Manuellycarvalho/ManuellyCarvalho/blob/main/Snack
- 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
