@@ -25,6 +25,6 @@
   <br>
 </div>
 
-<img src="https://soranews24.com/wp-content/uploads/sites/3/2014/12/pixel-art-11.gif?w=500">
+<img src="[https://soranews24.com/wp-content/uploads/sites/3/2014/12/pixel-art-11.gif?w=500](https://soranews24.com/wp-content/uploads/sites/3/2014/12/pixel-art-16.gif?w=364)">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
