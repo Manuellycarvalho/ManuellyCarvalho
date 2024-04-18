@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">  
-  <img width="41%" height="195px" src="https://i.pinimg.com/originals/ed/f9/18/edf91820f45ec88c7dd99d689d36b7e8.gif" />
+  <img src="https://i.pinimg.com/originals/ed/f9/18/edf91820f45ec88c7dd99d689d36b7e8.gif" />
 </div>
 
 
