@@ -24,8 +24,9 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Manuellycarvalho}/count.svg" /></p> 
   <br>
 </div>
+
 <div align="center">
-  <img src="[https://pin.it/4zbG5G2Zo](https://pin.it/61khoNtRD)" style="display: block; margin: 0 auto; max-width: 80%;">
+  <img src="[https://pin.it/4zbG5G2Zo](https://pin.it/61khoNtRD)">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
